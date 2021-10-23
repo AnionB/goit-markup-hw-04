@@ -109,9 +109,7 @@ header {
   margin-right: 50px;
 } 
 .contact-icon {
-  width: 16px;
-  height: 16px;
-  margin-right: 10px;
+    margin-right: 10px;
  vertical-align: bottom;
  fill: var(--text-color);
 }
@@ -204,10 +202,7 @@ header {
   justify-content: center;
   align-items: center;
 }
-.advatage-icon {
-  width: 70px;
-  height: 70px;
-}
+
 .alt-title-item {
   margin-bottom: 10px;
 
@@ -294,9 +289,7 @@ header {
 }
 
 .social-icon {
-  width: 20px;
-  height: 20px;
-  fill: var(--icon-color);
+    fill: var(--icon-color);
 }
 .clients-list {
     display: flex;
@@ -327,10 +320,7 @@ header {
 }
 
 .client-logo {
-  height: 60px;
-  width: 106px;
-
-   fill: var(--icon-color);
+    fill: var(--icon-color);
 
 }
 
@@ -413,9 +403,7 @@ color: var(--text-alt-color);
   background: rgba(255, 255, 255, 0.1);
 }
 .footer-social-icon {
-  width: 20px;
-  height: 20px;
-  fill: var(--text-alt-color);
+    fill: var(--text-alt-color);
 }
 .footer-connect .social-link:hover,
 .footer-connect .social-link:focus {
